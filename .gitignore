@@ -1,0 +1,7 @@
+.idea
+composer.lock
+*.log
+.DS_Store
+*/.DS_Store
+database.php
+update.sh
